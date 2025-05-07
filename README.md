@@ -7,7 +7,7 @@
 ## 🔗 Просмотр онлайн
 
 ✨ Сайт доступен для просмотра по адресу:  
-👉 [https://vovangod.github.io/Company/](https://vovangod.github.io/Company/)
+👉 [https://vovangod.github.io/Company/](https://vovangod.github.io/Company/products.html)
 
 ---
 
