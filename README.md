@@ -38,5 +38,5 @@
 git clone https://github.com/VovanGod/Company.git
 cd Company
 npm i
-npm run dev
+npm run start
 ```
